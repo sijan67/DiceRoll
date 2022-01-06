@@ -6,4 +6,4 @@ With this app in your pocket, you’ll be fully set up to settle any score on th
 <!---->
 <!--![alt text](appimage.png)-->
 
-<img src="appimage.png" width="200" height = "500" />
+<img src="appimage.png" width="250" height = "400" />
